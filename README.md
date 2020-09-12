@@ -1,1 +1,3 @@
-# leet_code_solutions
+# Leet Code Solutions
+1. Two Sum Problem
+2. Integer reverse (+ve and -ve integers) 
